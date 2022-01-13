@@ -1,0 +1,31 @@
+---
+title: "Manojkumar Bairi"
+links:
+  - label: Resume
+    url: "https://www.linkedin.com/in/manojkumar-bairi-2b01365a/"
+  - label: Blog
+    url: "https://medium.com/"
+  - label: SoundCloud
+    url: "https://soundcloud.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+---
+ 
+## Bio
+
+Manojkumar Bairi is a Full Stack Developer.Born in Adilabad,Telangana.
+
+
+## Education
+
+**KJSIEIT** | Sion, Mumbai, India
+
+B.E | August 2009 - May 2013
+
+
+## Experience
+**Publicis Sapient** |Senior Associate Technology | Jan 2022 - Present
+
+**FIS Global** | Senior Engineer Product Development | May 2019 - Jan 2022
+
+**Infosys Ltd.** | Technology Analyst | Feb 2014 - May 2019
