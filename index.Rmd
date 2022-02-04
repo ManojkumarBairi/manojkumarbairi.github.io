@@ -13,18 +13,18 @@ links:
  
 ## Bio
 
-Manojkumar Bairi is a Full Stack Developer.Born in Adilabad,Telangana.
+Manojkumar Bairi is a Senior Software Developer.
 
 
 ## Education
 
-**KJSIEIT** | Sion, Mumbai, India
+**KJSIEIT** | Mumbai, India
 
 B.E | August 2009 - May 2013
 
 
 ## Experience
-**Publicis Sapient** |Senior Associate Technology | Jan 2022 - Present
+**Publicis Sapient** | Senior Associate Technology | Jan 2022 - Present
 
 **FIS Global** | Senior Engineer Product Development | May 2019 - Jan 2022
 
